@@ -1,0 +1,30 @@
+.ideathon-logo{
+    width:185px;
+}
+
+.test-logo-class{
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight:900;
+}
+
+.home-pg-ttl{
+ font-size:50px;
+}
+
+.about-us-desc{
+
+    font-size:20px;
+    font-weight: 800;
+}
+
+.ideat{
+   
+    
+    
+    height: 72px ;
+    width: 155px;
+}
+li{
+    list-style-type:none;
+}
